@@ -1,5 +1,4 @@
 package Model;
 
-public class User {
-    public int test;
+public class User extends Personne{
 }
